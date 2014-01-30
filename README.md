@@ -1,0 +1,1 @@
+This is a Five in a row electric game. The game have two different sizes of board and allows two players competing with each other. The game is written in VHDL.
